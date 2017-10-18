@@ -2,7 +2,9 @@
 
 
 /* Header CSS */
-
+h1, h2{
+    text-align: center; 
+}
 
 
 /* Section CSS */
@@ -14,7 +16,11 @@
 
 
 /* Portfolio Item CSS */
-
+img {
+    height: 300px;
+    width: 200px;
+    
+}
 
 
 /* Footer CSS */
